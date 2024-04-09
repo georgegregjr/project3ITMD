@@ -183,7 +183,7 @@ ul {
   }
   
   .homepage main ul {
-    background-image: ("../media/background2.jpg");
+    background-image: url("../media/android.jpg");
   }
   
   .homepage footer {
