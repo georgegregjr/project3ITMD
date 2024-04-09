@@ -171,3 +171,26 @@ ul {
   background-color: red;
   margin: 0.1em auto;
 }
+
+@media screen and (min-width: 40.625em) {
+  .homepage ul li a {
+    font-size: 1.5em;
+    color: white;
+  }
+  
+  .homepage h1 {
+    font-size: 1.5em;
+  }
+  
+  .homepage main ul {
+    background-image: ("../media/Android.jpg");
+  }
+  
+  .homepage footer {
+    background-color: purple;
+  }
+  .homepage ul li {
+  font-family: 'Gabriela', Helvetica, sans-serif;
+  color: black;
+  }
+}
