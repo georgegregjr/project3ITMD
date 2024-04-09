@@ -1,4 +1,4 @@
-function init (){
+function initMap (){
   alert(' JS Testing');
   var newMap = document.getElementById('beyond');
   var mapOptions= {
@@ -12,4 +12,4 @@ function init (){
   
   var theMap = new google.maps.Map(newMap, mapOptions);
 }
-google.maps.event.addDomListener(window, 'load', init);
+google.maps.event.addDomListener(window, 'load', initMap);
