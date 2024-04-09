@@ -183,7 +183,7 @@ ul {
   }
   
   .homepage main ul {
-    background-image: ("../media/Android.jpg");
+    background-image: ("../media/Android.png");
   }
   
   .homepage footer {
@@ -192,5 +192,29 @@ ul {
   .homepage ul li {
   font-family: 'Gabriela', Helvetica, sans-serif;
   color: black;
+  }
+}
+
+@media screen and (min-width: 58.125em) {
+  .homepage h2 {
+    color: aqua
+  }
+
+  .homepage ul li {
+    font-family: Arial, Helvetica, sans-serif;
+    color: red;
+  }
+
+  .homepage p {
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .homepage main ul {
+    background-image: url("../media/background1.jpg");
+  }
+
+  .homepage footer {
+    background-color: aquamarine;
   }
 }
