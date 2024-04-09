@@ -174,7 +174,7 @@ ul {
 
 @media screen and (min-width: 40.625em) {
   .homepage ul li a {
-    font-size: 1.5em;
+    font-size: 2em;
     color: white;
   }
   
@@ -191,7 +191,7 @@ ul {
   }
   .homepage ul li {
     font-family: 'Gabriela', Helvetica, sans-serif;
-    color: black;
+    color: yellow;
   }
    
     .homepage h2 {
@@ -204,7 +204,7 @@ ul {
     color: aqua;
   }
     .homepage ul li a {
-    font-size: 3em;
+    font-size: 4em;
     color: purple;
   }
 
