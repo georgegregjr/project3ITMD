@@ -57,7 +57,7 @@ ul {
 }
 
 .homepage h2 {
-  color: aqua
+  color: orange;
 }
 
 .homepage ul li {
@@ -190,14 +190,22 @@ ul {
     background-color: purple;
   }
   .homepage ul li {
-  font-family: 'Gabriela', Helvetica, sans-serif;
-  color: black;
+    font-family: 'Gabriela', Helvetica, sans-serif;
+    color: black;
+  }
+   
+    .homepage h2 {
+      color: green;
   }
 }
 
 @media screen and (min-width: 58.125em) {
   .homepage h2 {
-    color: green;
+    color: aqua;
+  }
+    .homepage ul li a {
+    font-size: 3em;
+    color: purple;
   }
 
   .homepage ul li {
@@ -216,5 +224,8 @@ ul {
 
   .homepage footer {
     background-color: aquamarine;
+  }
+  .homepage h1 {
+    font-size: 3em;
   }
 }
