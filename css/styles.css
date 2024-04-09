@@ -197,7 +197,7 @@ ul {
 
 @media screen and (min-width: 58.125em) {
   .homepage h2 {
-    color: aqua
+    color: green;
   }
 
   .homepage ul li {
