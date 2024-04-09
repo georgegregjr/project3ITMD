@@ -7,7 +7,7 @@
         
         
 */
-function(){
+function init (){
   alert(' JS Testing');
 }
 google.maps.event.addDomListener(window, 'load', init);
