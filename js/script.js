@@ -6,7 +6,7 @@ function initMap (){
     zoom: 8,
     mapTypeId: google.maps.MapTypeId.SATELLITE,
     mapTypeControlOptions: {
-      posistion: google.maps.ControlPosistion.BOTTOM_CENTER
+      position: google.maps.ControlPosition.BOTTOM_CENTER
     }
   };
   
