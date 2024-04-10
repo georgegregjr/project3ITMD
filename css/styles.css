@@ -158,16 +158,16 @@ ul {
 }
 
 #box {
-  width: 80%;
-  height: 60%;
+  width: 50em;
+  height: 40em;
   background-color: green;
   overflow: hidden;
   margin: 0 auto;
 }
 
 #beyond {
-  width: 70%;
-  height: 50%;
+  width: 48em;
+  height: 47em;
   background-color: red;
   margin: 0;
   padding: 0;
