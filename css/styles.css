@@ -169,7 +169,8 @@ ul {
   width: 70%;
   height: 50%;
   background-color: red;
-  margin: 0.1em auto;
+  margin: 0;
+  padding: 0;
 }
 
 @media screen and (min-width: 40.625em) {
