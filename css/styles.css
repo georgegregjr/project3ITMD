@@ -157,7 +157,7 @@ ul {
   height: 20%;
 }
 
-.mapspage box {
+.mapspage #box {
   width: 80%;
   height: 60%;
   background-color: green;
@@ -165,7 +165,7 @@ ul {
   margin: 0 auto;
 }
 
-.mapspage beyond {
+.mapspage #beyond {
   width: 70%;
   height: 50%;
   background-color: red;
