@@ -12,7 +12,7 @@ function initMap (){
   var theMap = new google.maps.Map(newMap, mapOptions);
   const { AdvancedMarkerElement } = await google.maps.importLibrary("marker");
   const marker = new AdvancedMarkerElement({
-    newMap,
+    theMap,
     position: { lat: -34.397, lng: 150.644 },
   });
 
